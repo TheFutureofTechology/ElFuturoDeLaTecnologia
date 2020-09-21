@@ -45,6 +45,33 @@ La ingeniería climática es polémica por sus alcances globales, aunque cientí
 <p>Lea más aquí <a target="_blank" href="https://comofuncionaque.com/tecnologias-del-futuro/">comofuncionaque</a> </p>
 <img src="https://comofuncionaque.com/wp-content/uploads/cfq/2015/09/geoingenieria.jpg" alt="Imagen de geoingenieria" width="700">
 <h2 id="EVOLUCION"> ANTES Y DESPUES DE ALGUNOS DISPOSITIVOS</h2>
+<table>
+            <thead>
+                <tr>
+                    <th>Celular de antes</th>
+                    <th>Celular de ahora</th>
+                    
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Funcionaba mediante teclas</td>
+                    <td>Es tactil</td>                  
+                </tr>
+                <tr>
+                    <td> Sin conexión a wifi</td>
+                    <td>Con conexión a wifi</td>                   
+                </tr>               
+                <tr>
+                    <td>Tecnologia retro</td>
+                    <td>Tecnologia avanzada</td>                  
+                </tr>
+                 <tr>         
+                    <td> Limitado en sus funciones</td> 
+<td> Altas posibilidades y más funciones </td>              
+                </tr>
+                
+            </tbody>
 </body>
 </html>
 
