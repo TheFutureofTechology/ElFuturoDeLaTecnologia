@@ -30,7 +30,7 @@
 <p>Hace tiempo abordábamos la Ley de Moore como uno de los beneficios más tangibles de la tecnología. Es la ley que dice que cada dos años se duplica el número de transistores en un circuito integrado. Por eso cada vez tenemos discos duros más pequeños y de más capacidad. Sin embargo, esta miniaturización no podrá ser eterna. La computación cuántica de desarrolla en el área de la física cuántica y su aplicación en la informática podría ser una revolución total. Sin embargo, para que las computadoras cuánticas sean una realidad en la vida cotidiana podrían pasar de 10 a 12 años más, estima IBM. </p>
 <p>Lea más aquí <a target="_blank" href="https://comofuncionaque.com/tecnologias-del-futuro/">comofuncionaque</a> </p>
 <img src="https://comofuncionaque.com/wp-content/uploads/cfq/2015/09/computacion-cuantica.jpg" alt="Imagen de computacion cuantica" width="700">
-<h3 id="TOP TECOLOGIAS">WEARABLES QUE RESPONDEN AL SONIDO DE TU PIEL</h3>
+<h3 id="TOP TECNOLOGIAS">WEARABLES QUE RESPONDEN AL SONIDO DE TU PIEL</h3>
 <p>Si bien en la actualidad se trabaja en el desarrollo de todo tipo de objetos inteligentes, dentro de 10 años tu propia piel será inteligente y servirá para manejar los dispositivos con los que interactúes. Esto podría ser posible gracias a la tecnología bioacústica, actualmente utilizada para identificar los sonidos bajo el mar o analizar el canto de las aves.
 La bioacústica utiliza ultrasonidos y vibraciones, y aplicada a la electrónica, creará sensores que podrán escuchar tu piel. Cuando tocas una parte de tu piel con un dedo, ese impacto crea una variedad de ondas acústicas a través de su superficie. El análisis de ese sonido convertirá a la piel en una superficie touch para manejar todo tipo de dispositivos wearables. Dentro de 10 años, tal vez puedas juntar tus dedos para comenzar a reproducir música, o tocarte el hombro para lanzar una aplicación, documenta Reuters. </p>
 <p>Lea más aquí <a target="_blank" href="https://comofuncionaque.com/tecnologias-del-futuro/">comofuncionaque</a> </p>
@@ -43,6 +43,8 @@ La bioacústica utiliza ultrasonidos y vibraciones, y aplicada a la electrónica
 <p>Hablar de la ingeniería climática puede llevar a teorías conspiracionistas y a correr a ponernos un casco de papel aluminio. Lo cierto es que la geoingeniería existe y se considera una de las tecnologías del futuro para hacer frente al calentamiento global.
 La ingeniería climática es polémica por sus alcances globales, aunque científicos como Ken Caldeira, de la Universidad de Stanford, considera que serían una solución en caso de una emergencia climática en el mundo, si bien espera que jamás se tenga que utilizar.</p>
 <p>Lea más aquí <a target="_blank" href="https://comofuncionaque.com/tecnologias-del-futuro/">comofuncionaque</a> </p>
-<img src="https://comofuncionaque.com/wp-content/uploads/cfq/2015/09/geoingenieria.jpg" alt="Imagen de geoingenieria" width="700">                     
+<img src="https://comofuncionaque.com/wp-content/uploads/cfq/2015/09/geoingenieria.jpg" alt="Imagen de geoingenieria" width="700">
+<h2 id="EVOLUCION"> ANTES Y DESPUES DE ALGUNOS DISPOSITIVOS</h2>
 </body>
 </html>
+
