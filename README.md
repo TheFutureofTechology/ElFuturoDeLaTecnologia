@@ -53,7 +53,9 @@
             <li><a href="#top-tres"></a>Retro 11</li>
     </ul>
     
-  <h2 id="futuro">¿Cómo serán las tecnologías del futuro?</h2>
+ <p> Que tal, mi nombre es Luis Felipe Perez Silva, estoy cursando el grado decimo y tengo 16 años, aqui te mostrare informacion importante acerca de lo que sucedera en la tecnologia de un futuro cercano.</p>
+ 
+ <h2 id="futuro">¿Cómo serán las tecnologías del futuro?</h2>
   <p> Internet y los dispositivos a los cuales accedemos a ella están cambiando de una manera increíble y a una velocidad que nunca hubiéramos imaginado. Si hace 20 años a una persona le decían que estaría interconectado con cualquier persona del mundo con un aparato que llevaría en los bolsillos que mediría unos pocos centímetros y que sería utilizado además para chequear correos que dejarían de escribirse en papel para empezar a hacerlo en una pantalla se nos habrían reído en la cara y, probablemente, hubieran tenido la intención de meternos en un manicomio. </p>
   <p>Lea más aquí <a target="_blank" href="https://hipertextual.com/archivo/2012/07/las-tecnologias-del-futuro/">hipertextual</a> </p>
   <img src="http://lasredesdeventas.com/wp-content/uploads/2017/08/TECNOLOGIA-2.jpg" alt="Imagen de dispositivo futurista" width="700">
