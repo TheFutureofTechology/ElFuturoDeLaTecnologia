@@ -39,6 +39,8 @@
            
        
         </style>
+        
+       
     </head>
     <body>
 
@@ -49,8 +51,6 @@
             <li><a href="#Futuro">¿Cómo serán las tecnologías del futuro?</a></li>
             <li><a href="#TOP TECNOLOGIAS">3 TECNOLOGÍAS DEL FUTURO QUE CAMBIARÁN LOS PRÓXIMOS 30 AÑOS</a></li>
             <li><a href="#top-tres"></a>Retro 11</li>
-            <li><a href="#mj">Muerte de Michael Jackson</a></li>
-            <li><a href="#Suicidio">Suicidio de Avicci</a></li>
     </ul>
     
   <h2 id="futuro">¿Cómo serán las tecnologías del futuro?</h2>
