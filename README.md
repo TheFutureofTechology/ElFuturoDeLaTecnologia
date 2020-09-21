@@ -5,8 +5,40 @@
             ElFuturoDeLaTecnologia
             </title>
         <style>
+             h1 {
+             color: rgb(23, 13, 166);
+                  background-color: rgb(175, 199, 196); 
+                  font-size: 4em; 
+             } 
+             body {
+              background-color: rgb(93, 245, 225);
+             }
+         
+             h2 {
+            color: rgb(23, 13, 166);
+             background-color: rgb(175, 199, 196);
+             font-size: 3em; 
+             }
+          
+        
+             p {
+                 color: rgb(92, 90, 83);
+                 font-size: 2em;
+             }
              
-             </style>
+             th { 
+                 font-size: 2em;}
+             tr {
+                  color: rgb(92, 90, 83);
+                 font-size: 2em;}
+             li {
+             font-size: 2em;
+             }
+                 
+                 
+           
+       
+        </style>
     </head>
     <body>
 
