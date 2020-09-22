@@ -1,6 +1,6 @@
 <html>
     <head>
-        <meta charset="utf-8"/>
+        <meta charset="utf-8" />
         <title>
             ElFuturoDeLaTecnologia
             </title>
@@ -104,7 +104,7 @@ La ingeniería climática es polémica por sus alcances globales, aunque cientí
                     <td> Limitado en sus funciones</td> 
 <td> Altas posibilidades y más funciones </td>              
                 </tr>
-                
+                </table>
             </tbody>
 </body>
 </html>
