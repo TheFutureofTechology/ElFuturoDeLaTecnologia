@@ -49,8 +49,7 @@
     <h2>Indice</h2>
     <ul>
             <li><a href="#Futuro">¿Cómo serán las tecnologías del futuro?</a></li>
-            <li><a href="#TOP TECNOLOGIAS">3 TECNOLOGÍAS DEL FUTURO QUE CAMBIARÁN LOS PRÓXIMOS 30 AÑOS</a></li>
-            <li><a href="#top-tres"></a>Retro 11</li>
+            <li><a href="#TOP TECNOLOGIAS">4 TECNOLOGÍAS DEL FUTURO QUE CAMBIARÁN LOS PRÓXIMOS 30 AÑOS</a></li>
     </ul>
     
  <p> Que tal, mi nombre es Luis Felipe Perez Silva, estoy cursando el grado decimo y tengo 16 años, aqui te mostrare informacion importante acerca de lo que sucedera en la tecnologia de un futuro cercano.</p>
